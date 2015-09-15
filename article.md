@@ -26,4 +26,8 @@ with
 
 you get pdf as well
 
+## this is another slide
+
+lorem ipsum
+
 [reference]: http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html
