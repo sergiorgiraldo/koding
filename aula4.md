@@ -15,10 +15,8 @@ Beamer Theme  : singapore
 
 # IoT
 
-O número de dispositivos conectados excederá computadores e smartphones em 2020.
+O número de dispositivos conectados excederá computadores e smartphones em 2020 [\[1\]]{ font-size=small }
 ![graph]
-
-[Fonte: The Internet of Things, MIT Technology Review, Business Report\[1\]]{ font-size=small } 
 
 [graph]: http://www.siemens.com/innovation/en/home/publications/digitalization-and-software/internet-of-things-facts-and-forecasts/_jcr_content/gem.adapt.916.high.jpg/1411247811900.jpg "IOT" { vertical-align=middle }
 
@@ -114,6 +112,29 @@ Qual o **limite** que classifica um ciberataque como [**tático**]{ color=blue }
 
 [\[5\]]{ font-size=small }
 
+# Propostas
+
+&nbsp;
+
+[**Cybersecurity Framework**]{ font-size=xx-large }
+
+provides a prioritized, flexible, repeatable, performance-based, and costeffective
+approach to manage cybersecurity risk [\[6\]]{ font-size=small } 
+
+&nbsp;
+
+[** IoT/M2M Security Framework**]{ font-size=xx-large }
+
+a flexible security framework to address the highly diverse IoT environment and the related security challenges
+
+# Resumo { data-background-color=silver}
+
+> Dispositivos conectados e instalações são alvos de ataques;
+
+> Ataques acontecem com frequencia
+
+> Aplicação de frameworks para segurança
+
 # Referências
 
 1. *How the Internet of Things Will Change Business*, http://www.technologyreview.com/businessreport/the-internet-of-things/ 
@@ -121,5 +142,9 @@ Qual o **limite** que classifica um ciberataque como [**tático**]{ color=blue }
 3. *Oversight Hearing on Counterterrorism*, http://fas.org/irp/congress/2002_hr/060602mueller.html
 4. *Cyberwar: The What, When, Why, and How*, http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6901336
 5. *On Cyberwarfare: DCAF Horizons 2015 Working Paper*, http://www.dcaf.ch/Publications/On-Cyberwarfare
+6. *Cybersecurity Framework*, http://www.nist.gov/cyberframework/upload/cybersecurity-framework-021214.pdf
+7. *IoT/M2M Security Framework*, http://www.cisco.com/web/about/security/intelligence/iot_framework.html
+
 { font-size=medium }
+
 
