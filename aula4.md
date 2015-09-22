@@ -144,7 +144,6 @@ a flexible security framework to address the highly diverse IoT environment and 
 5. *On Cyberwarfare: DCAF Horizons 2015 Working Paper*, http://www.dcaf.ch/Publications/On-Cyberwarfare
 6. *Cybersecurity Framework*, http://www.nist.gov/cyberframework/upload/cybersecurity-framework-021214.pdf
 7. *IoT/M2M Security Framework*, http://www.cisco.com/web/about/security/intelligence/iot_framework.html
-
 { font-size=medium }
 
 
