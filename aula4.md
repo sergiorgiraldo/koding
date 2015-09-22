@@ -131,9 +131,9 @@ a flexible security framework to address the highly diverse IoT environment and 
 
 > Dispositivos conectados e instalações são alvos de ataques;
 
-> Ataques acontecem com frequencia
+> Ataques acontecem com frequência;
 
-> Aplicação de frameworks para segurança
+> Aplicação de frameworks para segurança.
 
 # Referências
 
