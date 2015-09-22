@@ -13,7 +13,7 @@ Beamer Theme  : singapore
 
 [TOC]
 
-# IOT
+# IoT
 
 O número de dispositivos conectados excederá computadores e smartphones em 2020.
 ![graph]
@@ -46,7 +46,7 @@ Falhas são encontradas e não são resolvidas
 * **Empresas fecham**
 * **Usuários não sabem como atualizar**   
 
-# FBI em 2002 alertava
+# FBI em 2002 já alertava
 
 Cibercrimes apenas perdem em relevância para terrorismo e espionagem [\[3\]]{ font-size=small }
 
@@ -87,10 +87,39 @@ Cibercrimes apenas perdem em relevância para terrorismo e espionagem [\[3\]]{ f
 
 [Oxford Dictionary]{ font-size=small }
 
+# 
+
+Qual o **limite** para considerar um ciberataque **equivalente** a uso de [**força**]{ color=blue }?
+
+[\[4\]]{ font-size=small }
+
+# 
+
+Qual o **limite** que classifica um ciberataque como [**tático**]{ color=blue } ou [**estratégico**]{ color=blue }?
+
+[\[4\]]{ font-size=small }
+
+# História
+
++ 1982: EUA -> União Soviética
++ 1991: EUA -> Iraque
++ 1994: Chechênia <-> Rússia
++ 1997-2001: Chechênia <-> Rússia
++ 2002: Rússia -> Chechênia
++ 1999-2002: Israel <-> Palestina
++ 2007: Rússia -> Estônia / China -> Inglaterra, França, Alemanha / Israel -> Síria
++ 2008: Rússia -> Lituânia/ Rússia -> Geórgia
++ 2009: Rússia -> Quirguistão / Coréia do Norte -> Coréia do Sul, EUA
++ 2010: ??? -> Irã
+
+[\[5\]]{ font-size=small }
+
 # Referências
 
 1. *How the Internet of Things Will Change Business*, http://www.technologyreview.com/businessreport/the-internet-of-things/ 
-
 2. *Kingpin: How One Hacker Took Over the Billion-Dollar Cybercrime Underground*, http://www.amazon.com/Kingpin-Hacker-Billion-Dollar-Cybercrime-Underground/dp/0307588688/
-
 3. *Oversight Hearing on Counterterrorism*, http://fas.org/irp/congress/2002_hr/060602mueller.html
+4. *Cyberwar: The What, When, Why, and How*, http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6901336
+5. *On Cyberwarfare: DCAF Horizons 2015 Working Paper*, http://www.dcaf.ch/Publications/On-Cyberwarfare
+{ font-size=medium }
+
