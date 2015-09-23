@@ -118,14 +118,14 @@ Qual o **limite** que classifica um ciberataque como [**tático**]{ color=blue }
 
 [**Cybersecurity Framework**]{ font-size=xx-large }
 
-provides a prioritized, flexible, repeatable, performance-based, and costeffective
+provides a prioritized, flexible, repeatable, performance-based, and cost effective
 approach to manage cybersecurity risk [\[6\]]{ font-size=small } 
 
 &nbsp;
 
 [** IoT/M2M Security Framework**]{ font-size=xx-large }
 
-a flexible security framework to address the highly diverse IoT environment and the related security challenges
+a flexible security framework to address the highly diverse IoT environment and the related security challenges [\[7\]]{ font-size=small }
 
 # Resumo { data-background-color=silver}
 
