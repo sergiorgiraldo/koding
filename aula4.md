@@ -157,7 +157,7 @@ prior knowledge of the flaw in the general information security community**, and
 
 [zero]: http://www.watchguardservices.co.uk/assets/Images/zerodayprotection.JPG
 
-# Resumo { data-background-color=silver}
+# Resumo
 
 > Dispositivos conectados e instalações são alvos de ataques;
 
@@ -180,4 +180,8 @@ prior knowledge of the flaw in the general information security community**, and
 9. *Economics of Security Part II: Qualifying the Economic Return From Cybersecurity Solutions*, https://www.fireeye.com/blog/executive-perspective/2014/07/economics-of-security-part-ii-qualifying-the-economic-return-from-cybersecurity-solutions.html
 { font-size=medium }
 
+# 
 
+![QA]
+
+[QA]:http://cdn1.itpro.co.uk/sites/itpro/files/images/dir_215/it_photo_107887.jpg {width=700px}
