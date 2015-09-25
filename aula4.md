@@ -13,6 +13,18 @@ Beamer Theme  : singapore
 
 [TOC]
 
+# Os artigos
+
+&nbsp;
+
+----------------------------- { width=60% }
+[An Internet of Treacherous Things]{ color=green }
+2015, Janeiro
+----------------------------- { width=60% }
+[Protecting Critical Infrastructures From Cyberattacks]{ color=green }
+2015, Março
+----------------------------- { width=60% }
+
 # IoT
 
 O número de dispositivos conectados excederá computadores e smartphones em 2020 [\[1\]]{ font-size=small }
@@ -127,13 +139,33 @@ approach to manage cybersecurity risk [\[6\]]{ font-size=small }
 
 a flexible security framework to address the highly diverse IoT environment and the related security challenges [\[7\]]{ font-size=small }
 
+# ROI
+
+1. Qual o fator entre eventos/ações?
+2. Índice signal to noise: qual a eficácia dos controles que identificam os eventos?
+3. Valor para implementar uma ação após um evento: qual a eficiência do ciclo de vida?
+4. Modelo de priorização de eventos contra estratégia e impacto    
+
+[\[8, 9\]]{ font-size=small }
+
+# Zero day
+
+**software or hardware vulnerabilities that have been exploited** by an attacker where there is **no 
+prior knowledge of the flaw in the general information security community**, and, therefore, no vendor fix or software patch available for it.
+
+![zero]
+
+[zero]: http://www.watchguardservices.co.uk/assets/Images/zerodayprotection.JPG
+
 # Resumo { data-background-color=silver}
 
 > Dispositivos conectados e instalações são alvos de ataques;
 
 > Ataques acontecem com frequência;
 
-> Aplicação de frameworks para segurança.
+> Aplicação de frameworks para segurança;
+
+> Zero-day são indetectáveis.
 
 # Referências
 
@@ -144,6 +176,8 @@ a flexible security framework to address the highly diverse IoT environment and 
 5. *On Cyberwarfare: DCAF Horizons 2015 Working Paper*, http://www.dcaf.ch/Publications/On-Cyberwarfare
 6. *Cybersecurity Framework*, http://www.nist.gov/cyberframework/upload/cybersecurity-framework-021214.pdf
 7. *IoT/M2M Security Framework*, http://www.cisco.com/web/about/security/intelligence/iot_framework.html
+8. *Economics of Security Part I: Translating Information Security Risks to Business Risk*, https://www.fireeye.com/blog/executive-perspective/2014/07/economics-of-security-part-i-translating-information-security-risks-to-business-risk.html
+9. *Economics of Security Part II: Qualifying the Economic Return From Cybersecurity Solutions*, https://www.fireeye.com/blog/executive-perspective/2014/07/economics-of-security-part-ii-qualifying-the-economic-return-from-cybersecurity-solutions.html
 { font-size=medium }
 
 
