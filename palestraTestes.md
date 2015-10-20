@@ -1,7 +1,7 @@
 [INCLUDE=presentation]
-Title         : A queda dos testes unitários
+Title         : A queda dos testes unitarios
 Subtitle      : Testando sistemas complexos
-Author        : Sérgio Giraldo
+Author        : Sergio Giraldo
 Email         : sergio@giraldo.com.br
 Reveal Theme  : simple
 Beamer Theme  : singapore
