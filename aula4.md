@@ -13,7 +13,7 @@ Beamer Theme  : singapore
 
 [TOC]
 
-# Os artigos
+# Os artigos.
 
 &nbsp;
 
